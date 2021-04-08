@@ -1,0 +1,43 @@
+.centrar-logo{
+  transform: translateY(50%);
+}
+
+.centrar-div{
+  transform: translateY(20%);
+}
+
+.icon-pass{
+  position: absolute;
+  height: 25px;
+  cursor: pointer;
+  left: 91%;
+  bottom: 44.7%;
+  transition: 5s all;
+}
+
+
+.centrar-div-reg{
+  transform: translateY(1%);
+}
+
+.icon-pass-reg{
+  position: absolute;
+  height: 25px;
+  cursor: pointer;
+  left: 91%;
+  bottom: 47%;
+  transition: 5s all;
+}
+
+.icon-pass-reg-2{
+  position: absolute;
+  height: 25px;
+  cursor: pointer;
+  left: 91%;
+  bottom: 30%;
+  transition: 5s all;
+}
+
+.span-signout{
+  cursor: pointer;
+}
